@@ -1,5 +1,5 @@
 #include<iostream>
 int main()
 {
-    printf("hello，world，yes");
+    printf("hello，world，yes，yes,yes");
 }
